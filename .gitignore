@@ -1,0 +1,5 @@
+assets/data
+assets/images
+.jekyll-cache
+Gemfile.lock
+_site
