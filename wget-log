@@ -1,0 +1,17 @@
+--2020-03-10 20:23:25--  https://search.google.com/search-console/verification-download?resource_id=https%3A%2F%2Fwww.notojs.loseyourip.com%2F
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving search.google.com (search.google.com)... 2a00:1450:4001:81c::200e, 172.217.22.78
+Connecting to search.google.com (search.google.com)|2a00:1450:4001:81c::200e|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://search.google.com/search-console/verification-download?resource_id%3Dhttps://www.notojs.loseyourip.com/&followup=https://search.google.com/search-console/verification-download?resource_id%3Dhttps://www.notojs.loseyourip.com/ [following]
+--2020-03-10 20:23:26--  https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://search.google.com/search-console/verification-download?resource_id%3Dhttps://www.notojs.loseyourip.com/&followup=https://search.google.com/search-console/verification-download?resource_id%3Dhttps://www.notojs.loseyourip.com/
+Resolving accounts.google.com (accounts.google.com)... 2a00:1450:4001:80b::200d, 172.217.18.13
+Connecting to accounts.google.com (accounts.google.com)|2a00:1450:4001:80b::200d|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘verification-download?resource_id=https:%2F%2Fwww.notojs.loseyourip.com%2F’
+
+                          verification-download?reso     [<=>                                                                                                                    ]       0  --.-KB/s               verification-download?resource_id=https:%2F%2Fwww.no     [ <=>                                                                                                                   ]  56.59K  --.-KB/s    in 0.02s   
+
+2020-03-10 20:23:26 (3.20 MB/s) - ‘verification-download?resource_id=https:%2F%2Fwww.notojs.loseyourip.com%2F’ saved [57949]
+
